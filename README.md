@@ -5,7 +5,7 @@ This project is a two-wheeled mobile robot with a obstacle avoidance algorithm i
 
 This project is developed together with my three classmates, Thomas Anthony Ortiz, Jam Montecillo, and Paulo Agustin as a part of the completion of our Microprocessor-Based Design course.
 
-![mobot_trial_run](https://github.com/aaroncanillas/test-repo/blob/a5b17c969276940a82b78faa019596407022771d/download.gif)
+![mobot_trial_run](https://github.com/aaroncanillas/2wd-mobile-robot-obstacle-detection/blob/7a72fb4e61e3f32822cc2c5e5135fadd647dcf6f/2wd%20mobile%20robot%20images/test%20run.gif)
 
 ## Materials
 
@@ -39,7 +39,7 @@ Instead of a single sensor, three HC-SR04 sensors were employed. One was strateg
 
 A sturdy yet lightweight chassis was constructed using multiple layers of cardboard, glued together for added rigidity.The motors were positioned at opposite ends of the chassis for balanced movement. The HC-SR04 sensor was strategically placed at the front, maximizing its detection range for obstacle avoidance. All wires were securely routed and organized within the chassis using cable ties, minimizing entanglement and potential damage.
 
-![hardware design](https://github.com/aaroncanillas/test-repo/blob/a5b17c969276940a82b78faa019596407022771d/Screenshot%202024-08-28%20191756.png)
+![hardware design](https://github.com/aaroncanillas/2wd-mobile-robot-obstacle-detection/blob/7a72fb4e61e3f32822cc2c5e5135fadd647dcf6f/2wd%20mobile%20robot%20images/hardware.png)
 
 **Fine-tuning of mobot control parameters**
 
@@ -49,7 +49,7 @@ While the algorithm lays the foundation for the mobot's navigation, its effectiv
 
 Before venturing into the obstacle maze, the mobot's code found its first proving ground within the virtual realm of Tinkercad's simulation environment. This digital testing platform offered a safe and controlled space to experiment with different parameter values and observe their effects on the mobot's behavior, without risking damage to the physical hardware or navigating physical obstacles.
 
-![tinkercad](https://github.com/aaroncanillas/test-repo/blob/a5b17c969276940a82b78faa019596407022771d/Screenshot%202024-08-28%20201352.png)
+![tinkercad](https://github.com/aaroncanillas/2wd-mobile-robot-obstacle-detection/blob/7a72fb4e61e3f32822cc2c5e5135fadd647dcf6f/2wd%20mobile%20robot%20images/tinkercad%20diagram.png)
 
 **Motor Calibration**
 
