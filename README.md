@@ -27,7 +27,7 @@ The power bank serves as the power supply for the motors and microcontroller boa
 
 - **Arduino UNO**
 
-The Arduino UNO microcontroller board serves as the central processing unit, receiving sensor data,interpreting it, and sending control signals to the motor driver. It is mounted on the chassis of the mobile robot.
+The Arduino UNO microcontroller board serves as the central processing unit, receiving sensor data, interpreting it, and sending control signals to the motor driver. It is mounted on the chassis of the mobile robot.
 
 - **HC-SR04 Ultrasonic Sensor**
 
@@ -37,7 +37,7 @@ Instead of a single sensor, three HC-SR04 sensors were employed. One was strateg
 
 **Hardware Design**
 
-A sturdy yet lightweight chassis was constructed using multiple layers of cardboard, glued together for added rigidity.The motors were positioned at opposite ends of the chassis for balanced movement. The HC-SR04 sensor was strategically placed at the front, maximizing its detection range for obstacle avoidance. All wires were securely routed and organized within the chassis using cable ties, minimizing entanglement and potential damage.
+A sturdy yet lightweight chassis was constructed using multiple layers of cardboard, glued together for added rigidity. The motors were positioned at opposite ends of the chassis for balanced movement. The HC-SR04 sensor was strategically placed at the front, maximizing its detection range for obstacle avoidance. All wires were securely routed and organized within the chassis using cable ties, minimizing entanglement and potential damage.
 
 ![hardware design](https://github.com/aaroncanillas/2wd-mobile-robot-obstacle-detection/blob/7a72fb4e61e3f32822cc2c5e5135fadd647dcf6f/2wd%20mobile%20robot%20images/hardware.png)
 
